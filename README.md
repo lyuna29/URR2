@@ -200,7 +200,7 @@
 
 <div align="center">
 
-| <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> |
+| <img src="./readme-images/lyuna29.jpeg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./readme-images/sumi.jpg"  width="150" height="150"/> | <img src="./readme-images/min.png"  width="150" height="150"/> | <img src="./readme-images/nyeong.png"  width="150" height="150"/> |
 | :---: | :---: | :---: | :---: | :---: |
 |임현아|서샛별|박수미|장민영|이녕수|
 |https://github.com/lyuna29|https://github.com/lyuna29|https://github.com/sumii-7 |https://github.com/mini-woong |https://github.com/LEE-NS|
