@@ -199,9 +199,11 @@
 
 
 <div align="center">
-임현아 | https://github.com/lyuna29
-서샛별 | https://github.com/ssbmel
-박수미 | https://github.com/sumii-7 
-장민영 | https://github.com/mini-woong 
-이녕수 | https://github.com/LEE-NS
+
+| <img src="./sumi.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> | <img src="./lyuna29.jpeg"  width="150" height="150"/> | <img src="./ssb.jpg"  width="150" height="150"/> |
+| :---: | :---: | :---: | :---: | :---: |
+|임현아|서샛별|박수미|장민영|이녕수|
+|https://github.com/lyuna29|https://github.com/lyuna29|https://github.com/sumii-7 |https://github.com/mini-woong |https://github.com/LEE-NS|
+
+
 </div>
